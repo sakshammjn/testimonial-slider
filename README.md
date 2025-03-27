@@ -1,2 +1,3 @@
 # testimonial-slider
-what people have to say
+people's opinions do matter sometimes
+
