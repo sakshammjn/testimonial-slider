@@ -1,3 +1,3 @@
 # testimonial-slider
-beacuse apparently it matters now
+beacuse apparently it matters now...
 
